@@ -4,4 +4,4 @@
 * [我的笔记-JavaScript 基础](http://gaohaoyang.github.io/2015/04/22/baidu-ife-2-javascript/)
 * [在线 Demo](http://gaohaoyang.github.io/ife/task/task0002/work/Gaohaoyang/index.html)
 
-* [![Watch the video](https://i.imgur.com/1NlVqfG.png)](https://pan.baidu.com/s/1dNVCcNkZN-S1JvFiYuIvLg)
+* [![Watch the video]()](https://pan.baidu.com/s/1dNVCcNkZN-S1JvFiYuIvLg)
